@@ -3,13 +3,13 @@
     <channel>
         <title>VindulaMemory</title>
         <item>
-            <title>0.1.14</title>
-            <pubDate>Tue, 12 May 2026 14:52:21 +0000</pubDate>
-            <sparkle:version>0.1.14</sparkle:version>
-            <sparkle:shortVersionString>0.1.14</sparkle:shortVersionString>
+            <title>0.1.15</title>
+            <pubDate>Tue, 12 May 2026 15:23:31 +0000</pubDate>
+            <sparkle:version>0.1.15</sparkle:version>
+            <sparkle:shortVersionString>0.1.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/vindulaintranet/vindulamemory-updates/gh-pages/downloads/0.1.14/VindulaMemory-0.1.14.app.zip" length="14112352" type="application/octet-stream" sparkle:edSignature="Py9ippyzk3pynPehnyJUQtvBRUmeuqfKFAlLKZY5l0v+/lpEFCfGdMM3hiJDCjDEmGosNXN9PW4RtfALXNpUAQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/vindulaintranet/vindulamemory-updates/gh-pages/downloads/0.1.15/VindulaMemory-0.1.15.app.zip" length="14112183" type="application/octet-stream" sparkle:edSignature="3HailCSob1wfR8xEUGsoawfOeOP9cMp0z5SfwFlJm/wBnsGPU6pE7GCI8etXF100yIQUup/EecFTJ+mKt01XAQ=="/>
         </item>
     </channel>
 </rss>
